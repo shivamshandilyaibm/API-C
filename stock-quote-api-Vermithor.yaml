@@ -1,7 +1,7 @@
 swagger: '2.0'
 info:
-  title: Realtime stock quotes
-  x-ibm-name: realtime-stock-quotes
+  title: Realtime stock quotes Vermithor
+  x-ibm-name: realtime-stock-quotes-Vermithor
   version: 1.0.0
 host: "stocktrader.ibmc.buildlab.cloud"
 schemes:
